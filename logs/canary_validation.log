@@ -1,0 +1,8 @@
+[2025-10-27T16:49:08.665881Z] [WARN] Canary error-rate 0.1%
+[2025-10-27T16:49:28.665881Z] [WARN] Canary latency 110ms
+[2025-10-27T16:49:48.665881Z] [INFO] Canary error-rate 0.1%
+[2025-10-27T16:50:08.665881Z] [INFO] Canary error-rate 0.1%
+[2025-10-27T16:50:28.665881Z] [WARN] Extend validation window
+[2025-10-27T16:50:48.665881Z] [INFO] Canary error-rate 0.1%
+[2025-10-27T16:51:08.665881Z] [WARN] Validation passed
+[2025-10-27T16:51:28.665881Z] [ERROR] Canary error-rate 0.1%

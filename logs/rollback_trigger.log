@@ -1,0 +1,8 @@
+[2025-10-27T16:49:08.666094Z] [ERROR] Audit recorded
+[2025-10-27T16:49:28.666094Z] [WARN] Initiating rollback
+[2025-10-27T16:49:48.666094Z] [ERROR] Initiating rollback
+[2025-10-27T16:50:08.666094Z] [INFO] Initiating rollback
+[2025-10-27T16:50:28.666094Z] [ERROR] Alert: error-rate threshold breached
+[2025-10-27T16:50:48.666094Z] [ERROR] Rollback successful
+[2025-10-27T16:51:08.666094Z] [WARN] Alert: error-rate threshold breached
+[2025-10-27T16:51:28.666094Z] [ERROR] Audit recorded

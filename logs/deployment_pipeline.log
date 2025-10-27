@@ -1,0 +1,8 @@
+[2025-10-27T16:49:08.665692Z] [INFO] Waiting for rollout
+[2025-10-27T16:49:28.665692Z] [INFO] Applying manifests
+[2025-10-27T16:49:48.665692Z] [WARN] Building image
+[2025-10-27T16:50:08.665692Z] [ERROR] Pushing to registry (local)
+[2025-10-27T16:50:28.665692Z] [INFO] Canary validated
+[2025-10-27T16:50:48.665692Z] [WARN] Applying manifests
+[2025-10-27T16:51:08.665692Z] [WARN] Canary validated
+[2025-10-27T16:51:28.665692Z] [INFO] Waiting for rollout
